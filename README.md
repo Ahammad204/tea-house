@@ -248,7 +248,7 @@ Copyright © 2023 - All rights reserved by ACME Industries Ltd
 
 ## 👤 Author
 
-**Ahmed Hammad**
+**Ahammad**
 - GitHub: [@ahammad204](https://github.com/ahammad204)
 - Live Demo: [https://ahammad204.github.io/tea-house/](https://ahammad204.github.io/tea-house/)
 
