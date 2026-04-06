@@ -284,4 +284,4 @@ For questions or issues:
 - [ ] Backend integration for newsletter
 
 
-Made with ☕ by Lazi Ahammad Ullah
+Made with ☕ by kazi Ahammad Ullah
